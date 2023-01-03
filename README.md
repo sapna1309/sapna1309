@@ -43,7 +43,7 @@ progressive organization as an accountable employee.</p>
 <li>
   <a href="https://www.linkedin.com/in/gaurav-singh-63196723a/" target="blank">Linkedin</a></li>
   <li>
-    <a href="https://gaurav62472744.github.io/" target="blank">Portfolio</a>
+    <a href="https://sapna1309.github.io/" target="blank">Portfolio</a>
   </li>
 </ul>
 
