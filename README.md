@@ -17,6 +17,43 @@
  </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<p>An enthusiastic and creative Full-Stack Web Developer with
+appropriate skills eager to learn new technologies. Worked more
+than 1200 hours on technical skills. Looking forward to joining a
+progressive organization as an accountable employee.</p>
+
+[![](https://visitcount.itsvg.in/api?id=sapna1309&label=%20Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sapna1309" alt="sapna1309" /></a> </p>
+
+- 🌱 I’m currently learning Full Stack Web Development.<br>
+
+- 💬 Ask me about React, Node JS, JavaScript, HTML, CSS, Data Structure Algorithm<br>
+
+- 📫 How to reach me: **sapna.sharma220516@gmail.com**<br>
+
+- Want to know more about me? [My Portfolio](https://sapna1309.github.io/)
+
+- ⚡ **Learning with fun**
+
+
+
+<div  display="flex"  alignItems="center" > <h3 >Connect with me : </h3> <img src="https://user-images.githubusercontent.com/110045725/210285717-863d406c-99fc-4182-af63-37406285cb7c.gif" width="50" />
+ <ul>
+<li>
+  <a href="https://www.linkedin.com/in/gaurav-singh-63196723a/" target="blank">Linkedin</a></li>
+  <li>
+    <a href="https://gaurav62472744.github.io/" target="blank">Portfolio</a>
+  </li>
+</ul>
+
+</div>
+
+
+
+
+
+
 
 
 
