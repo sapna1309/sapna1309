@@ -8,7 +8,7 @@
 <!-- 1 -->
 <!-- <img width="100%" src="https://user-images.githubusercontent.com/110045725/210279585-c584c424-eab9-4518-88fe-7482ebdf6aa8.jpg"  /> -->
 <!-- 2 -->
-<img width="100%" src="https://user-images.githubusercontent.com/110045725/210279644-7c8fe5fb-466e-4274-850a-417593c755cf.jpg"  />
+<img width="95%" src="https://user-images.githubusercontent.com/110045725/210279644-7c8fe5fb-466e-4274-850a-417593c755cf.jpg"  />
 <!-- 3 -->
 <!-- <img width="100%" src="https://user-images.githubusercontent.com/110045725/210279750-d381afd2-0f88-4300-94a7-3a71761be910.jpg"  />  -->
 <!-- 4 -->
