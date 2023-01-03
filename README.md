@@ -36,7 +36,7 @@ progressive organization as an accountable employee.</p>
 
 
 
-<div  display="flex"  alignItems="center" > <h3 >Connect with me : </h3> <img src="https://user-images.githubusercontent.com/110045725/210285717-863d406c-99fc-4182-af63-37406285cb7c.gif" width="50" />
+<div  display="flex"  alignItems="center" > <h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50" /> Connect with me : </h>
  <ul>
 <li>
   <a href="https://www.linkedin.com/in/sapna-sharma-4a1136231/" target="blank">Linkedin</a></li>
