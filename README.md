@@ -34,6 +34,8 @@ appropriate skills who's always willing to learn and work across technology and 
 
 - Want to know more about me? [My Portfolio](https://sapna1309.github.io/)
 
+- My resume--[Resume](https://drive.google.com/file/d/1-IMw6yhKYIEEIGBw-iVlnAtmCRMV9WBs/view?usp=sharing)
+
 - ⚡ **Learning with fun**
 
 
