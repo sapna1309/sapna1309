@@ -29,15 +29,15 @@ appropriate skills who's always willing to learn and work across technology and 
 
 <h2> 💫About Me</h2>
 
-- 🌱 I’m currently learning Full Stack Web Development.<br>
+- 🌱 I’m a Full Stack Web Development.<br>
 
-- 💬 Ask me about React, Node JS, JavaScript, HTML, CSS, Data Structure Algorithm<br>
+- 💬 Ask me about React JS, Next JS, Node JS, JavaScript, HTML, CSS, Data Structure Algorithm<br>
 
 - 📫 How to reach me: **sapna.sharma220516@gmail.com**<br>
 
 - Want to know more about me? [My Portfolio](https://www.sapna-sharma.in/)
 
-- My resume--[Resume](https://drive.google.com/file/d/1-IMw6yhKYIEEIGBw-iVlnAtmCRMV9WBs/view?usp=sharing)
+- My resume--[Resume](https://drive.google.com/file/d/1YUvmzvpLDcUS6ugiAsizkFtOq-Qnf42M/view?usp=sharing)
 
 - ⚡ **Learning with fun**
 
