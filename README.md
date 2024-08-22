@@ -35,7 +35,7 @@ appropriate skills who's always willing to learn and work across technology and 
 
 - 📫 How to reach me: **sapna.sharma220516@gmail.com**<br>
 
-- Want to know more about me? [My Portfolio](https://www.sapna-sharma.in/)
+- Want to know more about me? [My Portfolio](https://sapna1309.github.io/)
 
 - My resume--[Resume](https://drive.google.com/file/d/1YUvmzvpLDcUS6ugiAsizkFtOq-Qnf42M/view?usp=sharing)
 
@@ -48,7 +48,7 @@ appropriate skills who's always willing to learn and work across technology and 
 <li>
   <a href="https://www.linkedin.com/in/sapna-sharma-4a1136231/" target="blank">Linkedin</a></li>
   <li>
-    <a href="https://www.sapna-sharma.in/" target="blank">Portfolio</a>
+    <a href="https://sapna1309.github.io/" target="blank">Portfolio</a>
   </li>
 </ul>
 
