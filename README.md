@@ -1,6 +1,6 @@
 <div id="top"></div>
 <div align="center" >
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=6AD3F7&width=435&lines=Hi+👋+I'm+Sapna+Sharma;Full+Stack+Web+Developer;Welcome+to+My+profile"/>
+ <img alt="welcome title and line" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=30&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Sapna+Sharma;Full+Stack+Web+Developer;Welcome+to+My+profile" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -67,10 +67,12 @@ appropriate skills who's always willing to learn and work across technology and 
 
   <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sapna1309&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /></p>
-   <p align="center">
+   <div align="center">
    <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sapna1309&layout=compact&langs_count=8&theme=algolia"/></p>
   <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=sapna1309&theme=algolia&" /></p>
+  <a href="https://git.io/streak-stats">
+   <img width="50% src="https://streak-stats.demolab.com?user=sapna1309&theme=algolia" alt="GitHub Streak" /></a> 
+   </p>
 
 </a>
 </p>
