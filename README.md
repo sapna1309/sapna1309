@@ -29,7 +29,7 @@ appropriate skills who's always willing to learn and work across technology and 
 
 <h2> 💫About Me</h2>
 
-- 🌱 I’m a Full Stack Web Development.<br>
+- 🌱 I’m a Full Stack Web Developer.<br>
 
 - 💬 Ask me about React JS, Next JS, Node JS, JavaScript, HTML, CSS, Data Structure Algorithm<br>
 
